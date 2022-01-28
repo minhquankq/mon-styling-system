@@ -2,5 +2,5 @@
 
 ## TODO
 
-[] tailwind
+[x] tailwind
 [] storybook
