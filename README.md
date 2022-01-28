@@ -1,6 +1,16 @@
 # MON styling system
 
-## TODO
+## Storybook
 
-[x] tailwind
-[] storybook
+```sh
+yarn storybook
+```
+
+## Components
+
+- [x] Button
+- [ ] Input
+- [ ] Form group
+- [ ] Simple Select
+- [ ] React Select
+- [ ] ...
